@@ -34,6 +34,8 @@ public class ElevatorMain {
             buildingConfiguration,
             elevatorConfigurations);
 
+        
+
         Elevator firstElevator = new Elevator(elevatorConfiguration,
             buildingConfiguration);
 
